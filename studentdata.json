@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 20,
+      "gender": "Male",
+      "grade": "B.Tech",
+      "department": "Computer Science",
+      "email": "aarav.sharma@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "age": 19,
+      "gender": "Female",
+      "grade": "B.Sc",
+      "department": "Mathematics",
+      "email": "priya.verma@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Singh",
+      "age": 21,
+      "gender": "Male",
+      "grade": "B.Com",
+      "department": "Commerce",
+      "email": "rahul.singh@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Gupta",
+      "age": 22,
+      "gender": "Female",
+      "grade": "MBA",
+      "department": "Business Administration",
+      "email": "sneha.gupta@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Karan Patel",
+      "age": 20,
+      "gender": "Male",
+      "grade": "BCA",
+      "department": "Information Technology",
+      "email": "karan.patel@example.com"
+    }
+  ]
+}
