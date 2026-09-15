@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Anuj",
+    "rollNumber": "67",
+    "course": "B.Tech",
+    "email": "anuj@gmail.com"
+  },
+  {
+    "name": "Santosh",
+    "rollNumber": "73",
+    "course": "BCA",
+    "email": "santosh@email.com"
+  }
+]
